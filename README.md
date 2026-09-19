@@ -2,7 +2,7 @@
 
 **Passionate BCA Student & Developer | Angul, Odisha, India 🇮🇳**
 
-Welcome to my GitHub! I am a first-year BCA student at Creative Techno College with a deep passion for programming, building projects, and exploring the frontiers of artificial intelligence.
+Welcome to my GitHub! I am a second-year BCA student at Creative Techno College with a deep passion for programming, building projects, and exploring the frontiers of artificial intelligence.
 
 ### 🚀 About Me
 - 🔭 **Currently working on:** Building a Smart AI Chatbot
